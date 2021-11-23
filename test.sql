@@ -17,6 +17,21 @@
   -- cohort_id: The id of the cohort that the student is enrolled in
 
 -- assignments
+  -- id: A unique identifier
+  -- name: The name of the assignment
+  -- content: The written content body of the assignment
+  -- day: The day that the assignment appears on
+  -- chapter: The order that the assignment will appear in the day.
+  -- duration: The average time it takes a student to finish
+
 -- assignment_submissions
+  -- id: A unique identifier
+  -- assignment_id: The id of the assignment
+  -- student_id: The id of the student
+  -- duration: The time it took the student to complete the assignment
+  -- submission_date: The date is was submitted
+
 -- teachers
 -- assistance_requests
+
+
