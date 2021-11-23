@@ -33,5 +33,3 @@
 
 -- teachers
 -- assistance_requests
-
-
